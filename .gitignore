@@ -1,6 +1,14 @@
-﻿node_modules/
+﻿# Dipendenze
+node_modules/
+
+# Build
 dist/
 build/
 release/
+
+# Eseguibili
 *.exe
-*.log
+
+# Sistema
+.DS_Store
+Thumbs.db

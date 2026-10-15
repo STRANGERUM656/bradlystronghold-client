@@ -1,0 +1,18 @@
+
+[22:00:19] ============================================================
+[22:00:19]   BUILD + RELEASE BRADLYSTRONGHOLD
+[22:00:19] ============================================================
+[22:00:19] [OK] Cartella: C:\Users\blafe\Downloads\BRADLYCRUSADER-CLIENT
+[22:00:19] 
+>>> Pulizia vecchi build...
+[22:00:19] [OK] Cache pulita
+[22:00:20] [!] Configurazione 'build' mancante. La aggiungo...
+[22:00:20] [OK] Configurazione aggiunta
+[22:00:20] 
+>>> Build dell'installer (attendi 3-5 minuti)...
+[22:00:20] NON interrompere!
+[22:00:21] 
+>>> Verifica risultato...
+[22:00:21] [X] Nessun .exe generato. Build fallito.
+[22:00:21] 
+Contenuto della cartella dist:
